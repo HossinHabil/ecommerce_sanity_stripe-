@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next/font": "13.1.2",
-    "@sanity/client": "^4.0.1",
+    "@sanity/client": "^3.4.1",
     "@sanity/image-url": "^1.0.1",
     "@stripe/stripe-js": "^1.46.0",
     "canvas-confetti": "^1.6.0",
